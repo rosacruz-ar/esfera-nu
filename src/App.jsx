@@ -83,7 +83,7 @@ const steps = [
     title: "Vibración al NORTE",
     instruction: "Haz el Signo del Entrante y vibra con fuerza:",
     details: "Recupérate con el Signo del Silencio.",
-    spoken: "NUIT",
+    spoken: "NÜIT",
     visual: "god_name"
   },
   {
